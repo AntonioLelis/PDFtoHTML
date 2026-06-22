@@ -22,8 +22,8 @@ A ferramenta resolve o problema de perda de contexto visual em PDFs extraindo o 
 
 1. Clone este repositorio:
 ```bash
-git clone [https://github.com/SEU_USUARIO/NOME_DO_REPO.git](https://github.com/SEU_USUARIO/NOME_DO_REPO.git)
-cd NOME_DO_REPO
+git clone [https://github.com/AntonioLelis/PDFtoHTML.git](https://github.com/AntonioLelis/PDFtoHTML.git)
+cd PDFtoHTML
 ```
 
 2. Crie e ative um ambiente virtual:
